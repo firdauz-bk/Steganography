@@ -9,7 +9,7 @@
 ![Encode Audio after Uploading](images/encode_video2.PNG)
 
 ## Decode Page
-![Encode Audio after Uploading](images/decode.PNG)
+![Decode Page](images/decode.png)
 
 ## Members 
 **Team Members** <br>
