@@ -1,11 +1,11 @@
 # Stenograph Project
 ![Main Page](images/main_page.PNG)
 
-![Encode Audio](encode_audio.PNG)
+![Encode Audio](images/encode_audio.PNG)
 
-![Encode Video](encode_video.PNG)
+![Encode Video](images/encode_video.PNG)
 
-![Encode Audio after Uploading](encode_video2.PNG)
+![Encode Audio after Uploading](images/encode_video2.PNG)
 
 ## Members 
 **Team Members** <br>
