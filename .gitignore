@@ -1,2 +1,7 @@
 
 *.pyc
+env\
+ORIGINAL\*
+source\audio\*
+source\images\*
+source\video\*
